@@ -15,3 +15,9 @@ body table, th, td {
 h2 {
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+
+body {
+ background-image: url("dogsandcats.jpg");
+ background-color: #cccccc;
+ 
+}
