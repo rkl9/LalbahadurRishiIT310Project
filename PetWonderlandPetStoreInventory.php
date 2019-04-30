@@ -7,7 +7,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	
 	<title>Pet Wonderland Pet Store Inventory</title>
-	<link rel="stylesheet" href="PetWonderlandStoreInventory.css">
+	<link rel="stylesheet" href="PetWonderlandPetStoreInventory.css">
 </head>
 <body>
 	<h2>
